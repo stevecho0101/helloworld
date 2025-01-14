@@ -2,7 +2,7 @@
 
 func(){
 
-echo "hello new semester"
+echo "hello new semester!!"
 
 }
 
